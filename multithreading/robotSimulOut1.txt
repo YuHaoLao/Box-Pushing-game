@@ -1,0 +1,132 @@
+Door 0 (7,16)
+Door 1 (2,6)
+Door 2 (12,1)
+Door 3 (4,12)
+
+
+Boxe 0 (7,10)
+Boxe 1 (13,2)
+Boxe 2 (5,2)
+Boxe 3 (10,1)
+
+
+Robot 0 (1,9) Destination door 2
+Robot 1 (2,13) Destination door 1
+Robot 2 (15,16) Destination door 3
+Robot 3 (11,5) Destination door 2
+
+
+robot 0  move E
+robot 1  move W
+robot 3  move N
+robot 2  move W
+robot 0  move E
+robot 3  move N
+robot 2  move W
+robot 1  move W
+robot 0  move S
+robot 3  move W
+robot 2  move W
+robot 1  move W
+robot 3  move W
+robot 0  move S
+robot 2  move W
+robot 1  move W
+robot 2  move W
+robot 0  move S
+robot 3  move W
+robot 1  move W
+robot 0  move S
+robot 3  move W
+robot 2  move W
+robot 1  move W
+robot 0  move S
+robot 3  push S
+robot 2  move W
+robot 1  move W
+robot 0  move S
+robot 3  push S
+robot 3 end
+robot 2  move W
+robot 1  move W
+robot 2  move W
+robot 0  push W
+robot 1  move W
+robot 0  push W
+robot 2  move W
+robot 1  move W
+robot 0  push W
+robot 1  move W
+robot 2  move W
+robot 0  push W
+robot 1  move W
+robot 2  move W
+robot 0  push W
+robot 1  move S
+robot 2  move W
+robot 0  push W
+robot 1  move S
+robot 2  move W
+robot 0  push W
+robot 1  move S
+robot 2  move W
+robot 0  push W
+robot 1  move S
+robot 2  move N
+robot 1  move S
+robot 2  move N
+robot 0  push W
+robot 2  move N
+robot 1  move S
+robot 0  move N
+robot 2  move N
+robot 0  move W
+robot 1  move S
+robot 0  push S
+robot 2  move N
+robot 1  move S
+robot 0  push S
+robot 2  move N
+robot 1  move S
+robot 2  move N
+robot 0  push S
+robot 1  move S
+robot 2  move N
+robot 0  push S
+robot 1  move S
+robot 0  push S
+robot 0 end
+robot 2  move N
+robot 1  push E
+robot 2  move N
+robot 1  push E
+robot 2  push E
+robot 1  push E
+robot 1  push E
+robot 2  push E
+robot 1  move S
+robot 2  push E
+robot 2  push E
+robot 1  move E
+robot 2  push E
+robot 1  push N
+robot 2  push E
+robot 1  push N
+robot 2  push E
+robot 1  push N
+robot 2  push E
+robot 1  push N
+robot 2  push E
+robot 1  push N
+robot 2  push E
+robot 1  push N
+robot 2  move S
+robot 1  push N
+robot 2  move E
+robot 1  push N
+robot 2  push N
+robot 2 end
+robot 1  push N
+robot 1  push N
+robot 1  push N
+robot 1 end
