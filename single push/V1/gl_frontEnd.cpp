@@ -510,7 +510,7 @@ void initializeFrontEnd(int argc, char** argv, void (*gridDisplayCB)(void),
 
 	glutInitWindowSize(WINDOW_WIDTH, WINDOW_HEIGHT);
 	glutInitWindowPosition(INIT_WIN_X, INIT_WIN_Y);
-	gMainWindow = glutCreateWindow("Colorful Trails -- CSC 412 - Spring 2017");
+	gMainWindow = glutCreateWindow("Singel push -- CSC 412 - Fall 2021");
 	glClearColor(0.2f, 0.2f, 0.2f, 1.f);
 	
 	//	set up the callbacks for the main window

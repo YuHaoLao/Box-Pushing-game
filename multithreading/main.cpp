@@ -61,7 +61,7 @@ int numLiveThreads = 0;		//	the number of live robot threads
 
 //	robot sleep time between moves (in microseconds)
 const int MIN_SLEEP_TIME = 1000;
-int robotSleepTime = 500000;
+int robotSleepTime = 200000;
 
 //	An array of C-string where you can store things you want displayed
 //	in the state pane to display (for debugging purposes?)
